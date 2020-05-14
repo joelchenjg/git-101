@@ -1,7 +1,11 @@
 body{
 	margin: 0;
 	font-family: sans-serif;
+<<<<<<< HEAD
 	background: yellow;
+=======
+	background: blue;
+>>>>>>> blue
 }
 h1 {
 	font-weight: lighter;
